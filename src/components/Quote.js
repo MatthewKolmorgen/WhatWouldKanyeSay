@@ -3,9 +3,9 @@ import { connect } from "react-redux";
 import { getQuote } from "../actions";
 
 const Quote = (props) => {
-  useEffect(() => {
+  useEffect((props) => {
     // get a quote after the component mounts
-    props.getQuote();
+    getQuote();
   }, [props.getQuote]);
 
   if (props.loading) {
