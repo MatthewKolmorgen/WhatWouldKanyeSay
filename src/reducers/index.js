@@ -1,5 +1,5 @@
 const initialState = {
-  title: "I'm The Reducer",
+  title: "What Would Kenye Say?",
   editing: false,
   loading: false,
   quote: ""
