@@ -1,5 +1,5 @@
 const initialState = {
-  title: "What Would Kenye Say?",
+  title: "What Would Kanye Say?",
   editing: false,
   loading: false,
   quote: ""
