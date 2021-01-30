@@ -4,7 +4,7 @@ body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: linear-gradient(#e383b9, #5f65e9);
+  background-color:#5f65e9;
   color: white;
 }
 
@@ -12,6 +12,7 @@ body {
   font-family: sans-serif;
   text-align: center;
   padding: 36px;
+  margin-top: 20rem;
 }
 
 i {
